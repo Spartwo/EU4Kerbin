@@ -1,0 +1,284 @@
+#S100, V100-40
+sea_province = { 0 255 255 }
+sea_province = { 0 242 242 }
+sea_province = { 0 230 230 }
+sea_province = { 0 217 217 }
+sea_province = { 0 204 204 }
+sea_province = { 0 191 191 }
+sea_province = { 0 179 179 }
+sea_province = { 0 166 166 }
+sea_province = { 0 153 153 }
+sea_province = { 0 140 140 }
+sea_province = { 0 128 128 }
+sea_province = { 0 115 115 }
+sea_province = { 0 102 102 }
+#S95, V100-40
+sea_province = { 13 255 255 }
+sea_province = { 12 242 242 }
+sea_province = { 11 230 230 }
+sea_province = { 11 217 217 }
+sea_province = { 10 204 204 }
+sea_province = { 10 191 191 }
+sea_province = { 9 179 179 }
+sea_province = { 8 166 166 }
+sea_province = { 8 153 153 } 
+sea_province = { 7 140 140 }
+sea_province = { 6 128 128 }
+sea_province = { 6 115 115 }
+sea_province = { 5 102 102 }
+#S90, V100-40
+sea_province = { 25 255 255 }
+sea_province = { 24 242 242 }
+sea_province = { 23 230 230 }
+sea_province = { 22 217 217 }
+sea_province = { 20 204 204 }
+sea_province = { 19 191 191 }
+sea_province = { 18 179 179 }
+sea_province = { 16 166 166 }
+sea_province = { 15 153 153 }
+sea_province = { 14 140 140 }
+sea_province = { 13 128 128 }
+sea_province = { 12 115 115 }
+sea_province = { 10 102 102 }
+#S85 V100-40
+sea_province = { 38 255 255 }
+sea_province = { 36 242 242 }
+sea_province = { 34 230 230 }
+sea_province = { 32 217 217 }
+sea_province = { 30 204 204 }
+sea_province = { 28 191 191 }
+sea_province = { 26 179 179 }
+sea_province = { 25 166 166 }
+sea_province = { 23 153 153 }
+sea_province = { 21 140 140 }
+sea_province = { 19 128 128 }
+sea_province = { 17 115 115 }
+sea_province = { 15 102 102 }
+#S80 V100-40
+sea_province = { 51 255 255 }
+sea_province = { 48 242 242 }
+sea_province = { 46 230 230 }
+sea_province = { 43 217 217 }
+sea_province = { 41 204 204 }
+sea_province = { 38 191 191 }
+sea_province = { 36 179 179 }
+sea_province = { 33 166 166 }
+sea_province = { 31 153 153 }
+sea_province = { 28 140 140 }
+sea_province = { 26 128 128 }
+sea_province = { 23 115 115 }
+sea_province = { 20 102 102 }
+#S75 V100-40
+sea_province = { 64 255 255 }
+sea_province = { 61 242 242 }
+sea_province = { 57 230 230 }
+sea_province = { 54 217 217 }
+sea_province = { 51 204 204 }
+sea_province = { 48 191 191 }
+sea_province = { 45 179 179 }
+sea_province = { 41 166 166 }
+sea_province = { 38 153 153 }
+sea_province = { 35 140 140 }
+sea_province = { 32 128 128 }
+sea_province = { 29 115 115 }
+sea_province = { 26 102 102 }
+#S70 V100-40
+sea_province = { 77 255 255 }
+sea_province = { 73 242 242 }
+sea_province = { 69 230 230 }
+sea_province = { 65 217 217 }
+sea_province = { 61 204 204 }
+sea_province = { 57 191 191 }
+sea_province = { 54 179 179 }
+sea_province = { 50 166 166 }
+sea_province = { 42 140 140 }
+sea_province = { 38 128 128 }
+sea_province = { 34 115 115 }
+sea_province = { 29 102 102 }
+
+#H200, S100, V100-30 steps of 5
+lake_province = { 0 170 255 }
+lake_province = { 0 161 242 }
+lake_province = { 0 153 230 }
+lake_province = { 0 144 217 }
+lake_province = { 0 136 204 }
+lake_province = { 0 127 191 }
+lake_province = { 0 119 179 }
+lake_province = { 0 110 166 }
+lake_province = { 0 102 153 }
+lake_province = { 0 94 140 }
+lake_province = { 0 85 128 }
+lake_province = { 0 76 115 }
+lake_province = { 0 68 102 }
+lake_province = { 0 59 89 }
+lake_province = { 0 51 77 }
+
+#H200, S95. V100-30
+lake_province = { 13 174 255 }
+lake_province = { 12 166 242 }
+lake_province = { 11 157 230 }
+lake_province = { 11 148 217 }
+lake_province = { 10 139 204 }
+lake_province = { 10 131 191 }
+lake_province = { 9 122 179 }
+lake_province = { 8 113 166 }
+lake_province = { 8 105 153 }
+lake_province = { 7 96 140 }
+lake_province = { 6 87 128 }
+lake_province = { 6 78 115 }
+lake_province = { 5 70 102 }
+lake_province = { 4 61 89 }
+lake_province = { 4 52 77 }
+#H200, S90, V100-75
+lake_province = { 25 178 255 }
+lake_province = { 24 170 242 }
+lake_province = { 23 161 230 }
+lake_province = { 22 152 217 }
+lake_province = { 20 143 143 }
+lake_province = { 19 134 134 }
+
+empty = { 0 0 0 }
+wasteland_province = { 255 255 255 } #Placeholder
+
+wasteland_province = { 242 242 242 }
+wasteland_province = { 230 230 230 }
+wasteland_province = { 217 217 217 }
+wasteland_province = { 204 204 204 }
+wasteland_province = { 191 191 191 }
+wasteland_province = { 179 179 179 }
+wasteland_province = { 166 166 166 }
+wasteland_province = { 153 153 153 }
+wasteland_province = { 140 140 140 }
+wasteland_province = { 128 128 128 }
+wasteland_province = { 115 115 115 }
+
+river_estuary_modifier = { 204 189 112 }
+river_estuary_modifier = { }
+river_estuary_modifier = { 115 104 51 }
+river_estuary_modifier = { 227 243 146 }
+river_estuary_modifier = { 255 222 51 }
+river_estuary_modifier = { 255 232 115 }
+river_estuary_modifier = { 191 165 29 }
+river_estuary_modifier = { 153 132 23 }
+river_estuary_modifier = { 191 167 38 }
+river_estuary_modifier = { 272 215 73 }
+river_estuary_modifier = { 115 115 11 }
+river_estuary_modifier = { 102 102 5 }
+river_estuary_modifier = { 255 255 51 }
+river_estuary_modifier = { 230 230 69 }
+river_estuary_modifier = { 115 128 51 }
+river_estuary_modifier = { 127 140 56 }
+river_estuary_modifier = { 234 242 146 }
+river_estuary_modifier = { 123 128 77 }
+river_estuary_modifier = { 160 191 0 }
+river_estuary_modifier = { 153 153 84 }
+river_estuary_modifier = { 172 204 10 }
+river_estuary_modifier = { 242 215 73 }
+river_estuary_modifier = { 115 100 23 }
+river_estuary_modifier = { 191 175 96 }
+
+important_natural_harbor = { 102 94 51 }
+important_natural_harbor = { 217 181 0 }
+important_natural_harbor = { 255 215 13 }
+important_natural_harbor = { 102 91 36 }
+important_natural_harbor = { 242 217 85 }
+important_natural_harbor = { 230 196 23 }
+important_natural_harbor = { 204 204 0 }
+important_natural_harbor = { 191 168 48 }
+important_natural_harbor = { 166 166 41 }
+important_natural_harbor = { 102 102 20 }
+important_natural_harbor = { 255 255 185 }
+important_natural_harbor = { 191 191 96 }
+important_natural_harbor = { 210 217 230 }
+important_natural_harbor = { 86 102 5 }
+important_natural_harbor = { 242 242 145 }
+important_natural_harbor = { 217 198 98 }
+
+inland_center_of_trade_modifier = { 202 217 130 }
+inland_center_of_trade_modifier = { 115 108 40 }
+inland_center_of_trade_modifier = { 217 202 22 }
+inland_center_of_trade_modifier = { 214 242 73 }
+inland_center_of_trade_modifier = { 114 128 45 }
+inland_center_of_trade_modifier = { 130 140 77 }
+inland_center_of_trade_modifier = { 188 242 24 }
+inland_center_of_trade_modifier = { 191 179 38 }
+
+
+strait = {
+from = { 217 181 0 }
+to = { 204 170 0 }
+through = { 48 191 191 }
+}
+
+strait = {
+from = { 230 209 103 }
+to = { 217 198 98 }
+through = { 10 204 204 }
+}
+
+strait = {
+from = { 217 198 98 }
+to = { 128 115 51 }
+through = { 10 204 204 }
+}
+
+strait = {
+from = { 102 90 26 }
+to = { 128 112 32 }
+through = { 0 102 102 }
+}
+
+strait = {
+from = { 115 99 17 }
+to = { 242 211 48 }
+through = { 77 255 255 }
+}
+strait = {
+from = { 242 242 12 }
+to = { 230 230 11 }
+through = { 0 230 230 }
+}
+
+strait = {
+from = { 169 191 57 }
+to = { 104 115 46 }
+through = { 0 170 255 }
+}
+
+strait = {
+from = { 255 255 77 }
+to = { 242 242 73 }
+through = { 33 166 166 }
+}
+
+strait = {
+from = { 242 242 73 }
+to = { 191 191 57 }
+through = { 33 166 166 }
+}
+
+strait = {
+from = { 216 217 98 }
+to = { 255 255 115 }
+through = { 46 230 230 }
+}
+
+regions = 10
+region = { 128 122 57 }
+region = { 140 133 49 }
+region = { 191 179 38 }
+region = { 128 114 45 }
+region = { 179 164 0 }
+region = { 100 115 23 }
+region = { 92 102 36 }
+region = { 78 102 5 }
+region = { 217 217 43 }
+region = { 201 217 119 }
+
+continent = yes
+num_sea_provinces = 79
+num_land_provinces = 652
+size = { 13 16 }
+weight = 150
+#restrict_to_north_edge = yes
+do_not_rotate = yes
